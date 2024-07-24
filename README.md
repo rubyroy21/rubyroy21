@@ -25,7 +25,7 @@
 
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/JayantGoel001" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜">
+<!--   <img src="" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> -->
 <!--   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=rubyroy21&style=flat&color=brightgreen"> -->
   <img src="https://img.shields.io/github/stars/rubyroy21?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
@@ -36,7 +36,7 @@
 <img src="https://img.icons8.com/color/48/000000/html-5.png"/>  
     <img src="https://img.icons8.com/color/48/000000/css3.png"/>
    <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-    <img src="https://img.icons8.com/color/48/000000/react-native.png"/> 
+    <img src="https://img.icons8.com/color/48/000000/react.png"/> 
     <img src="https://img.icons8.com/color/48/000000/redux.png"/>
      <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/>
@@ -56,7 +56,7 @@
 ## 📊 My Github Stats
 
   <br/>
-  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rubyroy21&show_icons=true&locale=en&theme=highcontrast" alt="Abhijeet9242" /></p>
+  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rubyroy21&show_icons=true&locale=en&theme=highcontrast" alt="rubyroy21" /></p>
 <br>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rubyroy21&&theme=highcontrast" alt="rubyroy21" /></p>
