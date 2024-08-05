@@ -76,10 +76,13 @@
 <br/>
 
 ## Contact Me ☎️
+<a href="https://www.linkedin.com/in/ruby-roy-b2a7a6213/">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
 <p align="left">
-
-<a href = "https://www.linkedin.com/in/ruby-roy-b2a7a6213/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
- * Mail me on rubyroy722@gmail.com
-
+    Mail me on <a href="mailto:rubyroy722@gmail.com">rubyroy722@gmail.com</a>
+  &nbsp; | &nbsp;
+  Portfolio - <a href="https://ruby-roy-portfolio.netlify.app/" target="_blank">ruby-roy-portfolio.netlify.app</a>
 </p>
+
 
