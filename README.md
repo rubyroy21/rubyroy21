@@ -53,14 +53,19 @@
 
 </p>
 
-## 📊 My Github Stats
+## 📊 My GitHub Stats
 
   <br/>
-  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rubyroy21&show_icons=true&locale=en&theme=highcontrast" alt="rubyroy21" /></p>
-<br>
+  <!-- <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rubyroy21&show_icons=true&locale=en&theme=highcontrast" alt="rubyroy21" />
+  </p> -->
+  <br/>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rubyroy21&&theme=highcontrast" alt="rubyroy21" /></p>
+  <p align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rubyroy21&theme=highcontrast" alt="rubyroy21" />
+  </p>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
 
 
 <br/>
